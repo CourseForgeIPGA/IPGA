@@ -1,0 +1,8 @@
+{
+  "name": "ipga",
+  "version": "0.1.0",
+  "description": "Turn expertise into a profitable online course: vision, curriculum, production, sales funnel and community setup.",
+  "author": { "name": "Jayyvro" },
+  "license": "MIT",
+  "keywords": ["course-creation", "curriculum", "online-education", "sales-funnel", "community"]
+}
